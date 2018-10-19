@@ -1,0 +1,62 @@
+========================================================================================
+Report      : INFO
+Date        : Mon Apr 03 18:20:46 CDT 2017
+Description : u_domainNew:Database allocated on heap
+Node        : devony-VirtualBox
+Process     : SuperChat <3665>
+Thread      : spliced 7efbf7ffb700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1491261646.092057364
+========================================================================================
+Report      : INFO
+Date        : Mon Apr 03 18:20:46 CDT 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : devony-VirtualBox
+Process     : SuperChat <3665>
+Thread      : spliced 7efbf7ffb700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1491261646.103834764
+========================================================================================
+Report      : INFO
+Date        : Mon Apr 03 18:20:46 CDT 2017
+Description : Service cmsoap disabled
+Node        : devony-VirtualBox
+Process     : SuperChat <3665>
+Thread      : spliced 7efbf7ffb700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1491261646.105175812
+========================================================================================
+Report      : INFO
+Date        : Mon Apr 03 18:20:46 CDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : devony-VirtualBox
+Process     : SuperChat <3665>
+Thread      : spliced 7efbf7ffb700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1491261646.107295753
+========================================================================================
+Report      : INFO
+Date        : Mon Apr 03 18:20:46 CDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : devony-VirtualBox
+Process     : SuperChat <3665>
+Thread      : ddsi2 7efbf5805700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1491261646.124314153
+========================================================================================
+Report      : INFO
+Date        : Mon Apr 03 18:20:46 CDT 2017
+Description : The durability service can by identified by ID: 2041291643
+Node        : devony-VirtualBox
+Process     : SuperChat <3665>
+Thread      : durability 7efbf5b77700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1491261646.441959581
